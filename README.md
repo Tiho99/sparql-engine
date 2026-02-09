@@ -44,4 +44,4 @@ A pedagogical SPARQL engine implemented in Python with a REST Flask API. Designe
 ## 🎮 Usage
 
 ### Start the Server
-    python SPRQL.py
+    python3 SPRQL.py
